@@ -1,4 +1,4 @@
-#cub3d
+# cub3d
 
 Projeto cub3d realizado pelo squad (tal)
 
