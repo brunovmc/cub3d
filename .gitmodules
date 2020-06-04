@@ -1,0 +1,3 @@
+[submodule "wbertoni"]
+	path = wbertoni
+	url = git@github.com:wblech/cub3d.git
