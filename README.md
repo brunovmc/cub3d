@@ -2,7 +2,7 @@
 
 Projeto cub3d realizado pelo squad (tal)
 
-#Integrantes
+# Integrantes
 
 - bvidigal
 - csouza-f
