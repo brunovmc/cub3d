@@ -1,6 +1,6 @@
 # cub3d
 
-Projeto cub3d realizado pelo squad (tal)
+Projeto cub3d durante o squad da primeira metade de junho de 2020. 
 
 # Integrantes
 
